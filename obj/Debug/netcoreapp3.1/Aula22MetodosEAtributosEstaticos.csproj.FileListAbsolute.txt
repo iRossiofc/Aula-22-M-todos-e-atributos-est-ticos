@@ -1,0 +1,13 @@
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.csprojAssemblyReference.cache
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.AssemblyInfoInputs.cache
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.AssemblyInfo.cs
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.exe
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.deps.json
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.runtimeconfig.json
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.runtimeconfig.dev.json
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.dll
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.pdb
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.dll
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.pdb
+C:\Users\positivo\Documents\projetos\4° sprint\Aula22MetodosEAtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22MetodosEAtributosEstaticos.genruntimeconfig.cache
